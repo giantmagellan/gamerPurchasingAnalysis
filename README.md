@@ -1,4 +1,4 @@
-# pandas-challenge
+# Heroes of Pymoli: Gamer Purchasing Analysis
 
 # Written description of 3 observable trends in the dataset
 
